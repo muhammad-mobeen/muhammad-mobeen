@@ -11,9 +11,9 @@
 <br>
 
 	
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>  </picture> About me
+## <picture> <img src = "https://github.com/muhammad-mobeen/muhammad-mobeen/blob/main/Images/about_me.gif?raw=true" width = 50px>  </picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/muhammad-mobeen/muhammad-mobeen/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
 
@@ -26,7 +26,7 @@
 
 
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+## <picture> <img src="https://github.com/muhammad-mobeen/muhammad-mobeen/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="mailto:mobeenahmed2002@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/muhammad-mobeen"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -36,7 +36,7 @@
 
 ## 🛠️ My Skills
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+### <picture> <img src = "https://github.com/muhammad-mobeen/muhammad-mobeen/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
 <p align="center"> 
 &emsp;
@@ -53,7 +53,7 @@
    </a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Web Technologies
+### <picture> <img src = "https://github.com/muhammad-mobeen/muhammad-mobeen/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Web Technologies
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -77,7 +77,7 @@
     <a href="#"><img alt="Three.js" src="https://img.shields.io/badge/Three.js-%23000000.svg?style=plastic&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBmaWxsPSJub25lIiBzdHJva2UtbGluZWNhcD0ic3F1YXJlIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDIyNi43NyAyMjYuNzciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg4Ljk2NCA0LjI1MjcpIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLWxpbmVjYXA9ImJ1dHQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iNCI+CiAgPHBhdGggZD0ibTYzLjAyIDIwMC42MS00My4yMTMtMTc0Ljk0IDE3My4yMyA0OS44NzR6Ii8+CiAgPHBhdGggZD0ibTEwNi4zOSA1MC42MTIgMjEuNTkxIDg3LjQ5Ni04Ni41NjctMjQuOTQ1eiIvPgogIDxwYXRoIGQ9Im04NC45MSAxMjUuMDMtMTAuNzI0LTQzLjQ2NSA0My4wMDggMTIuMzQ2eiIvPgogIDxwYXRoIGQ9Im02My40NTggMzguMTUzIDEwLjcyNCA0My40NjUtNDMuMDA4LTEyLjM0NnoiLz4KICA8cGF0aCBkPSJtMTQ5LjQ3IDYyLjkzIDEwLjcyNCA0My40NjUtNDMuMDA4LTEyLjM0NnoiLz4KICA8cGF0aCBkPSJtODQuOTE1IDEyNS4wNiAxMC43MjQgNDMuNDY1LTQzLjAwOC0xMi4zNDZ6Ii8+CiA8L2c+Cjwvc3ZnPgo="></a>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
+ ### <picture> <img src = "https://github.com/muhammad-mobeen/muhammad-mobeen/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
  
 <p align="center">
   &emsp;
@@ -102,7 +102,7 @@
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
+ ### <picture> <img src = "https://github.com/muhammad-mobeen/muhammad-mobeen/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
  
 <p align="center">
   &emsp;
@@ -116,7 +116,7 @@
 </p>
 
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+ ### <picture> <img src = "https://github.com/muhammad-mobeen/muhammad-mobeen/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
  
 <p align="center">
 &emsp;
@@ -135,7 +135,7 @@
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+## <picture> <img src = "https://github.com/muhammad-mobeen/muhammad-mobeen/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
