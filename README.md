@@ -1,15 +1,11 @@
-### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-
-<div align="center">
-<img width="100%" height = "100%" src="Images/banner.jpg" alt="cover" />
-</div>
-
-
 <h1 align="center">Hi , I'm Muhammad Mobeen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Software+Developer;Pythonista;Always+learning+new+things"></a>
 </p>
+
+<div align="center">
+<img width="100%" height = "100%" src="Images/banner.jpg" alt="cover" />
+</div>
 
 
 <br>
@@ -191,10 +187,6 @@
 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammad-mobeen&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=muhammad-mobeen&theme=radical&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![@markhor's Holopin board](https://holopin.io/api/user/board?user=markhor)](https://holopin.io/@markhor)
 
