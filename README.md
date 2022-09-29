@@ -59,7 +59,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammad-mobeen&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=muhammad-mobeen&theme=radical&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=muhammad-mobeen&theme=radical&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![@markhor's Holopin board](https://holopin.io/api/user/board?user=markhor)](https://holopin.io/@markhor)
 
