@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammad-mobeen)](https://github.com/anuraghazra/github-readme-stats)
+
+[![@markhor's Holopin board](https://holopin.io/api/user/board?user=markhor)](https://holopin.io/@markhor)
+
 <!--
 **muhammad-mobeen/muhammad-mobeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
