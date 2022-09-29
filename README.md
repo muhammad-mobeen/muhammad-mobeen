@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammad-mobeen)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammad-mobeen&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![@markhor's Holopin board](https://holopin.io/api/user/board?user=markhor)](https://holopin.io/@markhor)
 
