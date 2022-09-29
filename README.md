@@ -59,9 +59,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammad-mobeen&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=muhammad-mobeen&theme=radical&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
 
 [![@markhor's Holopin board](https://holopin.io/api/user/board?user=markhor)](https://holopin.io/@markhor)
 
