@@ -17,11 +17,11 @@
 
 <br><br>
 
-- :school: I am a `Computer Science Student` at [Institute of Space Technology](https://www.ist.edu.pk/).
+- :school: I am a `Software Engineer`.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently doing BS in `Computer Science`.
+- :student: I did my bachelor's in `Computer Science` from [Institute of Space Technology](https://www.ist.edu.pk/)
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for `an Intern` or a new `job opportunity`, this is [MY WEBSITE](https://muhammadmobeen.com).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY WEBSITE](https://muhammadmobeen.com).
 <br>
 
 
